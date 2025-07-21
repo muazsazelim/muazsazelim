@@ -15,8 +15,10 @@
 - Email: muazsazelim019@gmail.com  
 - Portfolio: *soon*
 
-![Mu'az's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muazsazelim&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muazsazelim&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muazsazelim&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazsazelim&layout=compact&langs_count=6&theme=tokyonight" height="200"/>
+</p>
 
 
 <!--
