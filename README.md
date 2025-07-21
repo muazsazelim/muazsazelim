@@ -15,10 +15,14 @@
 - Email: muazsazelim019@gmail.com  
 - Portfolio: *soon*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muazsazelim&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazsazelim&layout=compact&langs_count=6&theme=tokyonight" height="200"/>
-</p>
+<div align="center"> 
+  <a href="">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muazsazelim&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazsazelim&theme=react&line_height=40&hide=css"/>
+  </a>
+</div>
 
 
 <!--
