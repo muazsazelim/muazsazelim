@@ -10,7 +10,7 @@
 - **Database**: Firebase, MySQL, SQLite
 - **Technologies**: Artificial Intelligence, Data Analysis, Full-stack Development, Internet of Things (IoT), Machine Learning, Software Testing
 
-## 📫 Contact
+## Contact
 - LinkedIn: [linkedin.com/in/muazsazelim](https://linkedin.com/in/muazsazelim)  
 - Email: muazsazelim019@gmail.com  
 - Portfolio: *soon*
