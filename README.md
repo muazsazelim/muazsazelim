@@ -1,7 +1,7 @@
 ## Hello World, I'm Mu'az Sazelim
 
-- BSc Computer Science at University of Sheffield, UK  
-- Full-stack | Mobile Apps | Data Analysis
+- BSc Computer Science, University of Sheffield, UK  
+- Full-stack | Mobile Apps | Data Analysis | Machine Learning
 
 ## Tech Stack
 - **Languages**: C#, C++, CSS, Dart, Haskell, HTML, Java, JavaScript, Kotlin, Python, Ruby  
@@ -11,8 +11,7 @@
 
 ## Contact
 - LinkedIn: [linkedin.com/in/muazsazelim](https://linkedin.com/in/muazsazelim)  
-- Email: muazsazelim019@gmail.com  
-- Portfolio: *soon*
+- Email: muazsazelim019@gmail.com
 
 <div align="center"> 
   <a href="">
