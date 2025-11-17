@@ -1,11 +1,11 @@
 ## Hello World, I'm Mu'az Sazelim
 
 - BSc Computer Science, University of Sheffield, UK  
-- Full-stack | Mobile Apps | Data Analysis | Machine Learning
+- Full-stack | Mobile Apps | Data Analysis
 
 ## Tech Stack
 - **Languages**: C#, C++, CSS, Dart, Haskell, HTML, Java, JavaScript, Kotlin, PHP, Python, Ruby  
-- **Frameworks**: Arduino, Flutter, Git, Laravel, Linux, NodeJS, Numpy, React, Robot Operating System (ROS), Ruby on Rails, Unity  
+- **Frameworks**: Arduino, Flutter, Git, Laravel, Linux, NodeJS, Numpy, React, Robot Operating System (ROS), Ruby on Rails, Unity, Vue.js 
 - **Database**: Firebase, MySQL, SQLite
 - **Technologies**: Artificial Intelligence, Data Analysis, Full-stack Development, Internet of Things (IoT), Machine Learning, Mobile Development, Software Testing
 
