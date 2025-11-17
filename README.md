@@ -1,4 +1,4 @@
-## My name is Muaz
+## Hi, My Name is Muaz
 
 - BSc Computer Science, University of Sheffield, UK  
 - Full-stack | Mobile Apps | Data Analysis
