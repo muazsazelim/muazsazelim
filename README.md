@@ -1,7 +1,8 @@
-## Hi, My Name is Muaz
+## Mu'az Sazelim
 
+- Researcher (Mobile), TM Research & Development
 - BSc Computer Science, University of Sheffield, UK  
-- Full-stack | Mobile Apps | Data Analysis
+- Mobile Development | Full Stack
 
 ## Tech Stack
 - **Languages**: C#, C++, CSS, Dart, Haskell, HTML, Java, JavaScript, Kotlin, PHP, Python, Ruby  
