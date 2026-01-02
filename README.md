@@ -1,6 +1,6 @@
 ## Mu'az Sazelim
 
-- Researcher (Mobile), TM Research & Development
+- Researcher, TM Research & Development
 - BSc Computer Science, University of Sheffield, UK  
 - Mobile Development | Full Stack
 
