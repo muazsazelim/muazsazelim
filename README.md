@@ -2,7 +2,7 @@
 
 - Researcher, TM Research & Development
 - BSc Computer Science, University of Sheffield, UK  
-- Mobile Development | Frontend
+- Mobile | Frontend Development
 
 ## Contact
 - LinkedIn: [linkedin.com/in/muazsazelim](https://linkedin.com/in/muazsazelim)  
