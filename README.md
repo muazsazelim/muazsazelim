@@ -1,8 +1,7 @@
 ## Mu'az Sazelim
 
 - Researcher, TM Research & Development
-- BSc Computer Science, University of Sheffield, UK  
-- Mobile | Frontend Development
+- BSc Computer Science, University of Sheffield, UK
 
 ## Contact
 - LinkedIn: [linkedin.com/in/muazsazelim](https://linkedin.com/in/muazsazelim)  
