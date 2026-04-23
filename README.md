@@ -1,6 +1,7 @@
 ## Mu'az Sazelim
 
-- Researcher, TM Research & Development
+- Software Engineer, TM Research & Development (Current)
+- Software Engineer, Lestari Alam Sekitar
 - BSc Computer Science, University of Sheffield, UK
 
 ## Contact
