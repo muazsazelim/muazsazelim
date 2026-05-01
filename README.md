@@ -1,8 +1,6 @@
 ## Mu'az Sazelim
 
-- Software Engineer, TM Research & Development (Current)
-- Software Engineer, Lestari Alam Sekitar
-- BSc Computer Science, University of Sheffield, UK
+- Software Engineer
 
 ## Contact
 - LinkedIn: [linkedin.com/in/muazsazelim](https://linkedin.com/in/muazsazelim)  
